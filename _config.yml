@@ -5,9 +5,9 @@ description: > # this means to ignore newlines until "baseurl:"
  안녕하세요. 저는 강원대학교 소프트웨어 미디어공학부 컴퓨터공학과 18학번 채윤성입니다.
  Hi. My name is Chae Yun-sung and I am a student of Computer Science at Kangwon National University.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://likeliszt.github.io/" # the base hostname & protocol for your site
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  LikeLiszt
 
 # Build settings
 markdown: kramdown
