@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-11-14 16:52:07
+title:  강원대학교 컴퓨터공학과 2학년 채윤성입니다.
+date:   2019-11-26 12:58:07
 categories: jekyll update
 tags: jekyll update
 image: /images/pic01.jpg
